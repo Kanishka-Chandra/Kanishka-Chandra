@@ -30,9 +30,8 @@
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/github/explore/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/github/explore/topics/github/github.png" />]
 [<img align="left" alt="Windows" width="26px" src="https://cdn.jsdelivr.net/gh/github/explore/topics/windows/windows.png" />]
-[<img align="left" alt="Android" width="26px" src="https://cdn.jsdelivr.net/gh/github/explore/topics/android/android.png" />]
+[<img align="left" alt="Android" width="26px" src="https://cdn.jsdelivr.net/gh/github/explore/topics/android/android.png" />](https://cdn.jsdelivr.net/gh/github/explore/topics/android/android.png)
 
-<br />
 <br />
 
 ### 📺 Latest YouTube Videos
